@@ -10,7 +10,7 @@ Learn basics of building an ASP.NET Web Forms application using ASP.NET 4.5
 - Some basics about how to use the Visual Studio environment.
 ```
 
-Refer to [Getting Started with ASP.NET 4.5 Web Forms](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/create-the-project) or [documentation](https://github.com/JianLongYaw/ShoppingCart/Getting Started with ASP.NET 4.5 Web Forms.pdf)
+Refer to [Getting Started with ASP.NET 4.5 Web Forms](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/create-the-project) or [documentation](https://github.com/JianLongYaw/ShoppingCart/getting-started/getting-started-with-aspnet-45-web-forms.pdf)
 
 You can use the [editor on GitHub](https://github.com/JianLongYaw/ShoppingCart/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
