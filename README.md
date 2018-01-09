@@ -3,11 +3,21 @@ Learn basics of building an ASP.NET Web Forms application using ASP.NET 4.5
 
 ### What you'll learn:
 ```
-- How to create a new Web Forms project.
-- The file structure of the Web Forms project.
-- How to run the project in Visual Studio.
-- The different features of the default Web forms application.
-- Some basics about how to use the Visual Studio environment.
+- Creating, reviewing and running the new project
+- Creating the database structure
+- Initializing and seeding the database
+- Customizing the UI using styles, graphics and a master page
+- Adding pages and navigation
+- Displaying menu details and product data
+- Creating a shopping cart
+- Adding OpenID support
+- Adding a payment method
+- Including an administrator role and a user to the application
+- Restricting access to specific pages and folder
+- Uploading a file to the web application
+- Implementing input validation
+- Registering routes for the web application
+- Implementing error handling and error logging
 ```
 
 Refer to [Getting Started with ASP.NET 4.5 Web Forms](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/create-the-project) or [documentation](https://github.com/JianLongYaw/ShoppingCart/getting-started/getting-started-with-aspnet-45-web-forms.pdf)
