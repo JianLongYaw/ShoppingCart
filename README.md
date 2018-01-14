@@ -1,4 +1,4 @@
-## Shopping Cart
+## Shopping Cart [![BCH compliance](https://bettercodehub.com/edge/badge/wayneYaw/ShoppingCart?branch=master)](https://bettercodehub.com/)
 Learn basics of building an ASP.NET Web Forms application using ASP.NET 4.5
 
 ### What you'll learn:
